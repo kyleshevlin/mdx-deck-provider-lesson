@@ -1,0 +1,14 @@
+{
+  "name": "mdx-deck-provider-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck src/deck.mdx"
+  },
+  "author": "Kyle Shevlin <kyle.a.shevlin@gmail.com> (http://kyleshevlin.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "mdx-deck": "^1.7.7"
+  }
+}
